@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=twinkling&text-color=black)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%20!%20I'm%20JUYEONG&fontSize=50&animation=twinkling&text-color=black)
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
 <p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
