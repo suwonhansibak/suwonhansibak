@@ -11,6 +11,8 @@
 
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 
@@ -19,8 +21,6 @@
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwonhansibak&layout=donut-vertical)](https://github.com/suwonhansibak/github-readme-stats)
 
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
