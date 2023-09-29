@@ -1,25 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%20!%20I'm%20JUYEONG&fontSize=50&animation=twinkling&text-color=black)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuwonhansibak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="center"><b>About me</b></h3>
-<p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<h3 align=""><b>About me</b></h3>
+<p align=""><a href="https://www.notion.so/c82403ece691437998adce16717d1873" target="_blank"><img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a></p>
 
-<p align="center">Hi There! I'm a Client developer.</p>
-<p align="center"> My main skills are Android,Kotlin,Python.</p>
-<p align="center">I am a developer that continues to grow in the future. 🔥</p>
-<p align="center">Please look forward to my growth. Bye~</p>
+<p align="">Hi There! I'm a Backend developer.</p>
+<p align=""> Nice to See You.</p>
+<p align="">I am a developer that continues to grow in the future. 🔥</p>
+<p align="">Please look forward to my growth. Peace~</p>
 
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">❤️ I like...</h3>
-<p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
+<h3 align="">❤️ I like...</h3>
+<p align="">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 
 <br>
 <br>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align=""><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 
 **🧑‍💻 Lang and Frameworks**
@@ -48,10 +48,11 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwonhansibak)](https://github.com/suwonhansibak/github-readme-stats)
 
-### 🚌 Top Langs & Algorithm
+<!--### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/______)
-
+-->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
